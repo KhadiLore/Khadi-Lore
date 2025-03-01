@@ -113,7 +113,7 @@ a{
   gap: 10px;
 }
 .btn {
-  padding: 14px 14px;
+  padding: 10px 11px;
   background: #84682f;
   border-radius: 50px;
   border: none;
@@ -124,7 +124,7 @@ a{
 .btn:last-child {
   border: 2px solid #fff;
   background: transparent;
-  color: #fff;
+  color: #614c20;
 }
 .btn:last-child:hover {
   background-color: #fff;
